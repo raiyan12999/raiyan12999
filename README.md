@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 ### 🛠️ My Tech
 
 - **Languages -**
-<p align="left"> <img src="https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&" /></p>
-<p align = "left"> <img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&" /></p>
+<img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&" alt="C++ Badge" style="display: inline-block; margin-right: 10px;">
+<img src="https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=&" alt="Python Badge" style="display: inline-block;">
+<img src="https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white" alt="C Badge">
+
 
 
 - **Backend -**
