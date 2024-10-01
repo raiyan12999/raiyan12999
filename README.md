@@ -24,11 +24,14 @@ Here are some ideas to get you started:
 ### 🛠️ My Tech
 
 - **Languages -**
-<img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&" alt="C++ Badge" style="display: inline-block; margin-right: 10px;">
-<img src="https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=&" alt="Python Badge" style="display: inline-block;">
-<img src="https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white" alt="C Badge">
+![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white)
+![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white)
 
-
+- **Frontend -**
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=white)
 
 - **Backend -**
 ![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
