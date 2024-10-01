@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - **Languages -**
 <p> <img src="https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&" /></p>
-<p> <img src="https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&" /></p>
+<p> <img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&" /></p>
 
 
 - **Backend -**
