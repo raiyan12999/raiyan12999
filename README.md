@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 - **Machine Learning -** 
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
+![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyan12999&show_icons=true&locale=en&layout=compact" alt="raiyan12999" /></p>
