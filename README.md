@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **raiyan12999/raiyan12999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +23,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ My Tech
 
-- **Languages -** 
+- **Languages -**
+<p> <img src="https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&" /></p>
 ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
 
