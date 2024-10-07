@@ -49,7 +49,14 @@ Here are some ideas to get you started:
 
 
 
+### My Github Stats
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=raiyan12999&show_icons=true&count_private=true&theme=dark" alt="raiyan12999" />
+</p>
 
+
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raiyan12999&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyan12999&theme=dark&layout=compact&align=right&width=40%)](https://github.com/raiyan12999/github-readme-stats)
