@@ -47,11 +47,10 @@ Here are some ideas to get you started:
 ![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyan12999&show_icons=true&locale=en&layout=compact" alt="raiyan12999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyan12999&show_icons=true&locale=en" alt="raiyan12999" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=raiyan12999&show_icons=true&count_private=true&theme=dark" alt="raiyan12999" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiyan12999&" alt="raiyan12999" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raiyan12999&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raiyan12999" alt="raiyan12999" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyan12999&theme=dark&layout=compact&align=right&width=40%)](https://github.com/raiyan12999/github-readme-stats)
 
