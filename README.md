@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white)
 ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=F89820&logo=openJDK&logoColor=white)
+![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=Javascript&logoColor=white)
+
 
 - **Frontend -**
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)
@@ -33,13 +36,14 @@ Here are some ideas to get you started:
 
 - **Backend -**
 ![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
-![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=white&label=)
+![SQLite](https://img.shields.io/static/v1?&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
 
 - **Tools -**
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
 
 - **Machine Learning -** 
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
