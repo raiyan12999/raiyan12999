@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 - **Backend -**
 ![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=white&label=)
 ![SQLite](https://img.shields.io/static/v1?&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
@@ -44,13 +45,17 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
 
 - **Machine Learning -** 
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
+- **Code Editor -** 
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 
 
 ### My Github Stats
