@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - **Frontend -**
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=white)
 
 - **Backend -**
