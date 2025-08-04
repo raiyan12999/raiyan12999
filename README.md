@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=F89820&logo=openJDK&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=Javascript&logoColor=white)
 
 
