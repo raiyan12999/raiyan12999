@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=white)
 
 - **Backend -**
-![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=white&label=)
 ![SQLite](https://img.shields.io/static/v1?&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
