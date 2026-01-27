@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
 - **Code Editor -** 
